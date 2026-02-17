@@ -29,6 +29,10 @@ st.header("🚀 Projets académiques")
 st.markdown("""
 - Collecte des données à Geule Tapé, Fass, Colobane et à  Massalikul Djinan
 - Réalisation de carte sur ARCGIS et QGIS
+- Dessiner des plans de maison (RDC,Etage.Terrasse,Masse)sur Autocad et SketChup
+- Créer des bases de données 
+- Maitriser des logiciels bureautique comme:Word,excel et powerpoint
+
 """)
 
 st.header("💡 Compétences")
