@@ -6,9 +6,9 @@ with st.sidebar:
     
     Fass Louveau
     
-    770585107
+   📞 770585107
     
-    ibn112403@gmail.com
+    ✉ ibn112403@gmail.com
     """)
     
 st.header("🧑 Informations personnelles")
@@ -17,7 +17,7 @@ st.write("Je suis passionné par la géomatique, un domaine qui combine la géog
 st.header("👨‍🎓 Formations")
 st.markdown("""
 - 2024-2025: Baccalaureat L2 au lycée Mame Cheikh Mbaye de Tamba
-- 2025-2026: Première Année en BTS Géomatique au CEDT le G15""")
+- 2025-2026: Première Année en BTS Géomatique au CEDT le G15 à Colobane """)
 
 st.header("⭐ Expériences")
 st.markdown("""
