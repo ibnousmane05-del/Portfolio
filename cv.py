@@ -1,5 +1,6 @@
 import streamlit as st
 with st.sidebar:
+    st.image("ibn.jpeg")
     st.markdown(""" 
     **Oumar DIALLO**
     
